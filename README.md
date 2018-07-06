@@ -3,7 +3,7 @@
 
 ## Overview
 
-Our goal is to help NYC residents by providing 24/7 access to resources by providing them with a simple experiences by utilizing the IBM Watson Assistants chatbot functionality to ask simple questions and make recommendations based on the answers. We spent time researching resources ranging from medical and dental care to mental health services and hotlines that are available in NYC at no or low-cost (for example: sliding scale). We took collected that information and organized it into a format that we could use in the backend flask app and presented on the frontend react app.
+Our goal is to help NYC residents by providing 24/7 access to resources by providing them with a simple experiences by utilizing the IBM Watson Assistants chatbot functionality to ask simple questions and make recommendations based on the answers. We spent time researching resources ranging from medical and dental care to mental health services and hotlines that are available in NYC at no or low-cost (for example: sliding scale). We took collected that information and organized it into a format that we could use in the backend flask app and presented on the frontend react app. The data we collected is available <a href="https://github.com/PooneetThaper/NYCResourceAssitant/blob/master/backend/data_with_location.csv">here</a> should anyone want to use this data in their own work for the betterment of the world or is simply looking for resources for themselves or their loved ones.
 
 ## Contribution
 
