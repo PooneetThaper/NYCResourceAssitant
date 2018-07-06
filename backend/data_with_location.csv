@@ -1,12 +1,12 @@
 ,Name,Address,Telephone,Price,Type,Subtype,Website,longitude,latitude
-0,Samaritans hope,,8778704673,Free,Mental Health,Suicide Hotlines,https://samaritanshope.org/our-services/247-crisis-services/,N/A,N/A
-1,Lifenet,,8005433638,Free,Mental Health,Suicide Hotlines,https://www.ccny.cuny.edu/counseling/community-resources-0,N/A,N/A
-2,Save (National Suicide Prevention Hotline),,8002738255,Free,Mental Health,Suicide Hotlines,https://suicidepreventionlifeline.org/,N/A,N/A
-3,Covenant House National Nine Line,,8009999999,Free,Mental Health,Suicide Hotlines,https://www.covenanthouse.org/,N/A,N/A
-4,Safe Horizons NYC Domestic Violence Hotline,,8006214673,Free,Mental Health,Domestic Violence Hotlines,https://www.ccny.cuny.edu/counseling/community-resources-0,N/A,N/A
-5,NYS Domestic Violence Hotline,,8009426906,Free,Mental Health,Domestic Violence Hotlines,https://www.ccny.cuny.edu/counseling/community-resources-0,N/A,N/A
-6,Sanctuary for Families,,2123496009,Free,Mental Health,Domestic Violence Hotlines,https://www.ccny.cuny.edu/counseling/community-resources-0,N/A,N/A
-7,National Domestic Violence Hotline,,8007997233,Free,Mental Health,Domestic Violence Hotlines,https://www.ccny.cuny.edu/counseling/community-resources-0,N/A,N/A
+0,Samaritans hope,N/A,8778704673,Free,Mental Health,Suicide Hotlines,https://samaritanshope.org/our-services/247-crisis-services/,N/A,N/A
+1,Lifenet,N/A,8005433638,Free,Mental Health,Suicide Hotlines,https://www.ccny.cuny.edu/counseling/community-resources-0,N/A,N/A
+2,Save (National Suicide Prevention Hotline),N/A,8002738255,Free,Mental Health,Suicide Hotlines,https://suicidepreventionlifeline.org/,N/A,N/A
+3,Covenant House National Nine Line,N/A,8009999999,Free,Mental Health,Suicide Hotlines,https://www.covenanthouse.org/,N/A,N/A
+4,Safe Horizons NYC Domestic Violence Hotline,N/A,8006214673,Free,Mental Health,Domestic Violence Hotlines,https://www.ccny.cuny.edu/counseling/community-resources-0,N/A,N/A
+5,NYS Domestic Violence Hotline,N/A,8009426906,Free,Mental Health,Domestic Violence Hotlines,https://www.ccny.cuny.edu/counseling/community-resources-0,N/A,N/A
+6,Sanctuary for Families,N/A,2123496009,Free,Mental Health,Domestic Violence Hotlines,https://www.ccny.cuny.edu/counseling/community-resources-0,N/A,N/A
+7,National Domestic Violence Hotline,N/A,8007997233,Free,Mental Health,Domestic Violence Hotlines,https://www.ccny.cuny.edu/counseling/community-resources-0,N/A,N/A
 8,Beth Israel Medical Group,55 E 34th St.,2122526000,Low,Medical,Sliding Scale Clinic,http://opencuny.org/healthdsc/what-to-do-if-youre-uninsured-free-and-low-cost-clinics-in-new-york/,-73.9817633,40.747627
 9,Callen-Lorde Community Health Center,356 West 18th Street (btw 8th and 9th Aves),2122717200,Low,Medical,Sliding Scale Clinic,http://opencuny.org/healthdsc/what-to-do-if-youre-uninsured-free-and-low-cost-clinics-in-new-york/,-74.0031578,40.7430191
 10,Charles B. Wang Community Health Center,125 Walker Street (between Centre St & Baxter St),2129412170,Low,Medical,Sliding Scale Clinic,http://opencuny.org/healthdsc/what-to-do-if-youre-uninsured-free-and-low-cost-clinics-in-new-york/,-73.9996914,40.7169368
